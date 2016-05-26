@@ -6,6 +6,8 @@ var ionProperties = {
     values             : [],
     min                : 10,
     max                : 100,
+    from               : 10,
+    to                 : 100,
     step               : 1,
     min_interval       : null,
     max_interval       : null,
